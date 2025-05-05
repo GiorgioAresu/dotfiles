@@ -1,0 +1,13 @@
+gui:
+  commitLength:
+    show: true
+git:
+  paging:
+    colorArg: always
+    pager: diff-so-fancy
+  pull:
+    mode: rebase
+  skipHookPrefix: 'WIP'
+notARepository: skip
+os:
+  editPreset: vscode
